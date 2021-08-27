@@ -1,3 +1,3 @@
 # Homepage
-[Clayden-Wang.github.io](https://Clayden-Wang.github.io/)
+[Claydon-Wang.github.io](https://Claydon-Wang.github.io/)
 
