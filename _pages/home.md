@@ -29,7 +29,7 @@ You can download my CV (in English)
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/adminXX.jpg" class="img-responsive" width="100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="100%" />
   </ul>
 
   <!-- <br clear="all" /> -->
@@ -43,6 +43,7 @@ You can download my CV (in English)
   ORCID: <a href="https://orcid.org/0000-0003-1795-4161">0000-0003-1795-4161</a> <br>   
   Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ">Shuoyuan Wang</a> <br>
   Kaggle: <a href="https://www.kaggle.com/claydonwang">Khadgar</a> <br>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qxy0eSYxkkDD23T1VJXNWt4_fn9cGJ1JRNShKPoCy8Y"></script>
 
 
 </div>
