@@ -43,7 +43,9 @@ You can download my CV (in English)
   ORCID: <a href="https://orcid.org/0000-0003-1795-4161">0000-0003-1795-4161</a> <br>   
   Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ">Shuoyuan Wang</a> <br>
   Kaggle: <a href="https://www.kaggle.com/claydonwang">Khadgar</a> <br>
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qxy0eSYxkkDD23T1VJXNWt4_fn9cGJ1JRNShKPoCy8Y"></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=qxy0eSYxkkDD23T1VJXNWt4_fn9cGJ1JRNShKPoCy8Y&co=4298d4&cmo=39c583&cmn=ebaa26'></script>
+
+  <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qxy0eSYxkkDD23T1VJXNWt4_fn9cGJ1JRNShKPoCy8Y"></script> -->
 
 
 </div>
