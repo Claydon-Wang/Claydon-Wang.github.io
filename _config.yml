@@ -5,8 +5,8 @@ title: Shuoyuan Wang
 email: claytonwang0205@gmail.com
 description: Home Page of Shuoyuan Wang
 baseurl: ""
-url: "https://clayden-wang.github.io/"
-repository: "Clayden-Wang/Clayden-Wang.github.io"
+url: "https://claydon-wang.github.io/"
+repository: "Claydon-Wang/Claydon-Wang.github.io"
 
 include:
   - .htaccess
