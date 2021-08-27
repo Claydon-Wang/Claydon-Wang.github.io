@@ -16,7 +16,6 @@ I am currently pursuing the Bachelor's degree of <a href="http://www.njnu.edu.cn
 
 ### CV
 You can download my CV (in English)
-<!-- [here](https://shuguang-52.github.io/papers/CV.pdf) -->
 
 ### News
 {% for article in site.data.news limit:20 %}
@@ -30,7 +29,7 @@ You can download my CV (in English)
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/adminXX.jpg" class="img-responsive" width="100%" />
   </ul>
 
   <!-- <br clear="all" /> -->
@@ -45,7 +44,6 @@ You can download my CV (in English)
   Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ">Shuoyuan Wang</a> <br>
   Kaggle: <a href="https://www.kaggle.com/claydonwang">Khadgar</a> <br>
 
-  <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=230&t=n&d=O7STzgOubcJjCfMIffgUOnR3--vRhJkSJ3YnfiRsLZg&co=3d95d0&ct=ffffff&cmo=3acc3a&cmn=efb86b'></script> -->
 
 </div>
 
