@@ -18,7 +18,7 @@ permalink: /explorations
 
  <p>{{ publi.description }}</p>
 
- <p><em>{{ publi.authors }}</em></p>
+ <p><em>{{ publi.participants }}</em></p>
 
  <p>{{ publi.venue }}</p>
 

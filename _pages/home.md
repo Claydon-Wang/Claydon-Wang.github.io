@@ -138,7 +138,7 @@ My papers may be under review and can be found in my CV. I will release my <a hr
 
  <p>{{ publi.description }}</p>
 
- <p><em>{{ publi.authors }}</em></p>
+ <p><em>{{ publi.participants }}</em></p>
 
  <p>{{ publi.venue }}</p>
 
