@@ -1,7 +1,7 @@
 ---
-title: "Shuoyuan Wang - explorations"
+title: "Shuoyuan Wang - Explorations"
 layout: gridlay
-excerpt: "Shuoyuan Wang: explorations"
+excerpt: "Shuoyuan Wang: Explorations"
 sitemap: false
 permalink: /explorations
 ---
