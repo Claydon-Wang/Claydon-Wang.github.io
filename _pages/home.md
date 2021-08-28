@@ -120,21 +120,21 @@ My papers may be under review and can be found in my CV. I will release my <a hr
 
 <br clear="all"/>
 
-#### <a href="{{ site.url }}{{ site.baseurl }}/publications">see all publications</a>
+##### <a href="{{ site.url }}{{ site.baseurl }}/publications">see all publications</a>
 
 </div>
 
 <div class="col-sm-12">
 
-### Theses
+### Explorations
 
-{% for publi in site.data.theseslist limit:6 %}
+{% for publi in site.data.exlist limit:6 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/explore/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" />
 
  <p>{{ publi.description }}</p>
 
@@ -200,6 +200,9 @@ My papers may be under review and can be found in my CV. I will release my <a hr
 </div>
 
 {% endfor %}
+<br clear="all"/>
+
+##### <a href="{{ site.url }}{{ site.baseurl }}/explorations">see all research explorations</a>
 
 <p> &nbsp; </p>
 

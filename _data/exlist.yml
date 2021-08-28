@@ -1,0 +1,13 @@
+title: A GUI based on Tkinter for real-time Human Activity Recognition.
+image: GUI.png
+description: We use a Graphical User Interface(GUI) based on Tkinter to visualize the activity classification. For quantitative comparison, we also show the model type and inference time.
+authors: Shuoyuan Wang, Xin Wang.
+venue: 
+number_link: 2
+link1:
+  url: https://https://claydon-wang.github.io/gui
+  display: project
+
+link2:
+  url: https://github.com/Claydon-Wang/GUI-for-HAR
+  display: code
