@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-### Publications/Reports
+### Publications
 <p>I will release my related <a href="https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ">paper</a> once my paper is accepted.</p><br>
 
 {% for publi in site.data.publist %}
@@ -73,6 +73,8 @@ permalink: /publications/
 
 
 ### Theses
+
+<p>To be continued</p><br>
 
 {% for publi in site.data.theseslist limit:6 %}
 

@@ -15,7 +15,7 @@ I am currently pursuing the Bachelor's degree of <a href="http://www.njnu.edu.cn
 
 
 ### CV
-You can download my [CV](https://claydon-wang.github.io//papers/CV_E.pdf)(in English) here.
+You can download my [CV (in English)](https://claydon-wang.github.io//papers/CV_E.pdf) here.
 
 ### News
 {% for article in site.data.news limit:20 %}
@@ -126,7 +126,7 @@ My papers may be under review and can be found in my CV. I will release my <a hr
 
 <div class="col-sm-12">
 
-<!-- ### Theses
+### Theses
 
 {% for publi in site.data.theseslist limit:6 %}
 
@@ -203,5 +203,5 @@ My papers may be under review and can be found in my CV. I will release my <a hr
 
 <p> &nbsp; </p>
 
-</div> -->
+</div>
 
