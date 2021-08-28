@@ -1,7 +1,7 @@
 ---
-title: "GUI for HAR"
+title: "Shuoyuan Wang - GUI for HAR"
 layout: gridlay
-excerpt: "Shuoyuan Wang"
+excerpt: "Shuoyuan Wang -- GUI for HAR"
 sitemap: false
 permalink: /gui/
 ---
