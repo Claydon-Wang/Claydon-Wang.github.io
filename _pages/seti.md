@@ -9,7 +9,7 @@ permalink: /seti/
 ### A brief record of SETI
 
 
-<center>
+<!-- <center>
 <figure>
 		<div id="projectid">
     <img src="{{ site.url }}{{ site.baseurl }}/images/explore/SETI_competition.jpg" width="800px" />
@@ -18,7 +18,7 @@ permalink: /seti/
 <figcaption>
 <a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI Competition Homepage</a> <br>  
 </center>
-<br>
+<br> -->
 
 #### input/output
 - Input: image contain 6 channels, 3 contain detection signal, 3 contain background noise.
