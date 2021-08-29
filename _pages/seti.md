@@ -12,7 +12,7 @@ permalink: /seti/
 <center>
 <figure>
 		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/explore/SETI_competition.jpg" width="700px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/SETI_competition.jpg" width="700px" />
 		</div>
 
 <figcaption>
