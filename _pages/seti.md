@@ -77,4 +77,4 @@ permalink: /seti/
 - Few-Shot Learning is more in line with the thinking process of human brain.
 
 #### Acknowledgements
-- Thank to my friend Haiyang, Liu from Tokyo University for the discussion and help in the competition.
+- Thank to my friend Haiyang, Liu from UTokyo for the discussion and help in the competition.
