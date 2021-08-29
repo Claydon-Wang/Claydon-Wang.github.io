@@ -9,16 +9,19 @@ permalink: /seti/
 ### A brief record of SETI
 
 
-<!-- <center>
+<center>
 <figure>
 		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/SETI_competition.jpg" width="800px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/explore/SETI_competition.jpg" width="700px" />
 		</div>
 
 <figcaption>
-<a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI Competition Homepage</a> <br>  
+<br>
+<a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI Competition Homepage</a> 
+
+</figcaption>
+</figure>
 </center>
-<br> -->
 
 #### input/output
 - Input: image contain 6 channels, 3 contain detection signal, 3 contain background noise.
