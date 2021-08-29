@@ -29,7 +29,7 @@ Overview
 <center>
 <figure>
 		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/origin.png" width="700px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/origin.png" width="300px" />
 		</div>
 
 <figcaption>
@@ -45,7 +45,7 @@ Initial interface
 <center>
 <figure>
 		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/classification.png" width="700px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/classification.png" width="300px" />
 		</div>
 
 <figcaption>
