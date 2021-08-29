@@ -28,12 +28,12 @@ Overview
 <center>
 <figure>
 		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/standing.png" width="100px" />
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/sitting.png" width="100px" />
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/jogging.png" width="100px" />
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/walking.png" width="100px" />
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/upstairs.png" width="100px" />
-    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/downstairs.png" width="100px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/standing.png" width="150px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/sitting.png" width="150px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/jogging.png" width="150px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/walking.png" width="150px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/upstairs.png" width="150px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/HAR/downstairs.png" width="150px" />
 		</div>
 
 <figcaption>
