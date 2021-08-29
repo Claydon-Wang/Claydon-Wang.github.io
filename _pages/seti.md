@@ -74,7 +74,17 @@ permalink: /seti/
 - why why pseudo labelling can work in most kaggle competition?<br> 
  A: The model has never seen the real test set
 - We should select different data augmentation according to data set distribution.
+- After the competition, we find it necessary to <strong>only mixup the negative</strong>
 - Few-Shot Learning is more in line with the thinking process of human brain.
+
+#### Magic in other outstanding groups
+- Only test set have the signal like "s", it is useful to adds those signals(p = 0.01) to the training set
+- The background between train and test data is very different. Cleaning the data can bring big boosts of LB.
+- Under the above conditions, only 4xTTA（regular、hflip、vflip、hflip+vflip, we use 12xTTA.
+- The mixup uses logical OR instead of alpha blending when mixing targets. This allows creating a model that responds strongly to weak signals.
+- Using only the high reliable pseudo-labels to find the difference between training and testing in this competition.
+- An emsemble of four EfficientNets(b1,b2,b3,b4) with Convolutional Triplet Attention Module is work.
+- GeM Pooling (p=4)
 
 #### Acknowledgements
 - Thank to my friend Haiyang, Liu from UTokyo for the discussion and help in the competition.

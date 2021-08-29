@@ -2,7 +2,6 @@
   image: SETI.jpg
   description: The target of SETI competition is to identify anomalous signals in scans of Breakthrough Listen based on approaches from computer vision. We record our experimental procedure and rank 14/768(Top 2%).
   participants: Shuoyuan Wang, <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=U_9vNgsAAAAJ">Haiyang Liu</a>, et al
-
   venue: 
   number_link: 3
   link1:
@@ -28,7 +27,7 @@
     url: https://github.com/Claydon-Wang/GUI-for-HAR
     display: code(github)
 
-- title: Reducing training memory costs of hardware-friendly addernet for Human Activity Recognitionfor by CUDA programming
+- title: Reducing training memory costs of hardware-friendly addernet for Human Activity Recognition by CUDA programming
   image: Addernet.png
   description: The original AdderNet Repo considers using PyTorch for add absed convolution, but it will trap in memory explosion without CUDA support. We give the accelerated version and can be used both in CV and HAR.
   participants: Shuoyuan Wang.
