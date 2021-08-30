@@ -22,7 +22,23 @@ Overview
 </figure>
 </center>
 
-- This project is a GUI based on Tkinter. The sensor datas operated by sliding window are stored in "/dataset/WISDM".The data can be download from <a href="https://www.cis.fordham.edu/wisdm/dataset.php">WISDM</a> website. We can extract random samples from them to predict human actions.
+- This project is a GUI based on Tkinter. The sensor datas operated by sliding window are stored in "/dataset/WISDM".The data can be download from <a href="https://www.cis.fordham.edu/wisdm/dataset.php">WISDM</a> website. We can extract random samples from them to predict human actions.<br>
+We can Randomly selecta sample in WISDM. It can be visualized as below:
+
+<center>
+<figure>
+		<div id="projectid">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/explore/raw_data.png" width="400px" />
+		</div>
+
+<figcaption>
+<br>
+Multimodal sensor signals in WISDM 
+
+</figcaption>
+</figure>
+</center>
+
 - The model in the Figure is algorithms based on machine learning or deep learning. We give the example of CNNs in our <a href="https://github.com/Claydon-Wang/GUI-for-HAR">respositories</a>. The model can be trained in remote server and further deployed on mobile devices like Raspberry Pi. Hence, we can intuitively evaluate the model efficiency through metrics such as inference time.
 - WISDM dataset contains 6 activities:
 <center>
