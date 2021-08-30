@@ -23,7 +23,7 @@ Overview
 </center>
 
 - This project is a GUI based on Tkinter. The sensor datas operated by sliding window are stored in "/dataset/WISDM".The data can be download from <a href="https://www.cis.fordham.edu/wisdm/dataset.php">WISDM</a> website. We can extract random samples from them to predict human actions.<br>
-We can Randomly selecta sample in WISDM. It can be visualized as below:
+We can Randomly select a time-series sample in WISDM. It can be visualized as below:
 
 <center>
 <figure>
