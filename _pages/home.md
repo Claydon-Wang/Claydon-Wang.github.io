@@ -56,7 +56,7 @@ You can download my [CV (in English)](https://claydon-wang.github.io//papers/CV_
 <div class="col-sm-12">
 
 ### Publications
-My papers may be under review and can be found in my [CV](https://claydon-wang.github.io//papers/CV_E.pdf). I will release my <a href="https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ">paper</a> and <a href="https://github.com/Claydon-Wang">code</a> once my paper is accepted.<br>
+My papers may be under review and can be found in my [CV](https://claydon-wang.github.io//papers/CV_E.pdf). You can refer to the [abstract](https://claydon-wang.github.io//papers/Abstract.pdf) of my ""first-author" paper currently. I will release my <a href="https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ">paper</a> and <a href="https://github.com/Claydon-Wang">code</a> once my paper is accepted.<br>
 
 
 {% for publi in site.data.publist limit:100 %}
