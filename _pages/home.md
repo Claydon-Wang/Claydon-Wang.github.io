@@ -11,7 +11,7 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-8">
-I am currently pursuing the Bachelor's degree of <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China. My recent research interests are in Machine Learning, Deep Learning and Human Activity Recognition(HAR) using wearables. <a href="https://scholar.google.com/citations?hl=zh-CN&user=n1qFlf8AAAAJ">A.P Lei Zhang</a> is my advisor. <br>I will graduate in June 2022 and I am looking for looking for a passionate group to sutdy for MS/Ph.D. I am willing to dive into data-driven research including Machine Learning, Edge-AI, Computer Vision, Computational Biology, etc.
+I am currently pursuing the Bachelor's degree of <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China. My recent research interests are in Machine Learning, Deep Learning and Human Activity Recognition(HAR) using wearables. <a href="https://scholar.google.com/citations?hl=zh-CN&user=n1qFlf8AAAAJ">A.P Lei Zhang</a> is my advisor. I am willing to dive into data-driven research including Machine Learning, Edge-AI, Computer Vision, Computational Biology, etc. <br> Remimd the date: <a href="https://aideadlin.es/?sub=ML,CV">AI</a> and <a href="https://ccfddl.github.io/">CCF</a>
 
 
 ### CV
