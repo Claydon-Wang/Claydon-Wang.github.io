@@ -39,13 +39,3 @@
   link2:
     url: https://github.com/Claydon-Wang/Addernet-CUDA
     display: code(github)
-
-# - title: Reproduct paper on surgical video analysis
-#   image: 
-#   description: Reproduct paper on surgical video analysis.
-#   participants: Shuoyuan Wang.
-#   venue: 
-#   number_link: 1
-#   link1:
-#     url: https://claydon-wang.github.io/MIA
-#     display: project page
