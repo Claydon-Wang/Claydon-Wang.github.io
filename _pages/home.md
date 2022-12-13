@@ -11,12 +11,14 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-8">
-I received the Bachelor's degree of <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China. <a href="https://scholar.google.com/citations?hl=zh-CN&user=n1qFlf8AAAAJ">A.P Lei Zhang</a> is my advisor. Now he is pursuing the Ph.D. degree in the <a href="https://www.fst.um.edu.mo/personal/bobzhang/pami/">PAMI group</a>, Faculty of Science and Technology, University of Macau, Taipa, Macau under the supervision of <a href="https://scholar.google.com/citations?hl=zh-CN&user=dlZuABAAAAAJ&view_op=list_works&sortby=pubdate">Bob Zhang</a>. My recent research interests are in Computer Vision and sensor-based Human Activity Recognition(HAR), Domain Generalization.
+I received the Bachelor's degree of <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China. <a href="https://scholar.google.com/citations?hl=zh-CN&user=n1qFlf8AAAAJ">A.P Lei Zhang</a> is my advisor. <!-- Now I am pursuing the Ph.D. degree in the <a href="https://www.fst.um.edu.mo/personal/bobzhang/pami/">PAMI group</a>, Faculty of Science and Technology, University of Macau, Taipa, Macau under the supervision of <a href="https://scholar.google.com/citations?hl=zh-CN&user=dlZuABAAAAAJ&view_op=list_works&sortby=pubdate">Bob Zhang</a>.--> My recent research interests are in Computer Vision and sensor-based Human Activity Recognition(HAR), Domain Generalization.
+
+<!-- <br clear="all" /> -->
 <br> Remimd the date: <a href="https://aideadlin.es/?sub=ML,CV">AI</a> and <a href="https://ccfddl.github.io/">CCF</a>
 
 
 ### CV
-You can download my [CV (English Version)](https://claydon-wang.github.io//papers/CV_E.pdf) here.
+<!-- You can download my [CV (English Version)](https://claydon-wang.github.io//papers/CV_E.pdf) here.-->
 
 ### News
 {% for article in site.data.news limit:20 %}
