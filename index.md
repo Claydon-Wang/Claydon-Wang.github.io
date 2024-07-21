@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Southern University of Science and Technology, under the supervision of [Prof. Hongxin Wei](https://hongxin001.github.io/). Prior to this, I received my Master's degree in Computer Science from University of Macau, where I was advised by [Prof. Bob Zhang](https://www.cis.um.edu.mo/~bobzhang/). I also received a Bachelor's degree in Electrical Engineering from Nanjing Normal University, where my advisor was [Prof. Lei Zhang](https://leizhangnjnu.github.io/_pages/includes/people/).
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multi-modal Learning:** image recognition, image generation, video captioning
+- **Machine Learning:** calibration, ML robustness, test-time adaptation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2024]** 1 paper about CLIP calibration is accepted to ICML 2024.
+- **[Oct. 2023]** 1 paper about test-time adaptation is accept to IMWUT/UbiComp 2024.
 
 {% include_relative _includes/publications.md %}
 

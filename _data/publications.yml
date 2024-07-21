@@ -7,16 +7,15 @@ main:
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/fs_ece.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
+    authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei
+    conference_short: Ubicomp/IMWUT
+    conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
+    pdf: https://arxiv.org/pdf/2310.18562.pdf
+    code: https://github.com/Claydon-Wang/OFTTA
+    image: ./assets/img/har.png
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Y02Iufu_dFQJ:scholar.google.com/&output=citation&scisdr=ClHlFec0EOrhkyl9jQs:AFWwaeYAAAAAZp17lQtpljwoaixlkGkWN8_eoYQ&scisig=AFWwaeYAAAAAZp17lTrUvVzEQnYf9iNiCqHGgt8&scisf=4&ct=citation&cd=0
+    # notes: Oral Presentation
