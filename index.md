@@ -9,7 +9,7 @@ I am a Ph.D. student at Southern University of Science and Technology, under the
 
 ## Research Interests
 
-- **Multi-modal Learning:** image recognition, image generation, video captioning
+- **Multi-modal Learning:** CLIP fine-tuning
 - **Machine Learning:** calibration, ML robustness, test-time adaptation
 
 ## News
