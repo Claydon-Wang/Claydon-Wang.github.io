@@ -8,7 +8,6 @@ main:
     code: https://github.com/ml-stat-Sustech/CLIP_Calibration
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:noJOFFTtj3cJ:scholar.google.com/&output=citation&scisdr=ClHlFec0EOrhkyl5VJc:AFWwaeYAAAAAZp1_TJeq_pTuiDQCgtB58TZBulg&scisig=AFWwaeYAAAAAZp1_TCjCyHmD7wducRfxKA1YtXc&scisf=4&ct=citation&cd=0
     image: ./assets/img/fs_ece.png
-    notes: Poster
 
   - title: Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
     authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei
@@ -18,4 +17,3 @@ main:
     code: https://github.com/Claydon-Wang/OFTTA
     image: ./assets/img/har.png
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Y02Iufu_dFQJ:scholar.google.com/&output=citation&scisdr=ClHlFec0EOrhkyl9jQs:AFWwaeYAAAAAZp17lQtpljwoaixlkGkWN8_eoYQ&scisig=AFWwaeYAAAAAZp17lTrUvVzEQnYf9iNiCqHGgt8&scisf=4&ct=citation&cd=0
-    # notes: Oral Presentation
