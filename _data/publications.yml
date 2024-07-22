@@ -1,9 +1,9 @@
 main:
 
   - title: Open-Vocabulary Calibration for Fine-tuned CLIP
-    authors: <strong>Shuoyuan Wang<strong>, Jindong Wang, Guoqing Wang, Bob Zhang, Kaiyang Zhou, Hongxin Wei
-    conference_short: ICML s
-    conference:  International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
