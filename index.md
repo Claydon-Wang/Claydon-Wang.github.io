@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Southern University of Science and Technology, under the supervision of [Prof. Hongxin Wei](https://hongxin001.github.io/). Prior to this, I received my Master's degree in Computer Science from University of Macau, where I was advised by [Prof. Bob Zhang](https://www.fst.um.edu.mo/personal/bobzhang/). I also received a Bachelor's degree in Electrical Engineering from Nanjing Normal University, where my advisor was [Prof. Lei Zhang](https://leizhangnjnu.github.io/_pages/includes/people/).
+I am currently a Ph.D. student at Southern University of Science and Technology, under the supervision of [Prof. Hongxin Wei](https://hongxin001.github.io/). Prior to this, I received my Master's degree in Computer Science from University of Macau, where I was advised by [Prof. Bob Zhang](https://www.fst.um.edu.mo/personal/bobzhang/). I also received a Bachelor's degree in Electrical Engineering from Nanjing Normal University, where my advisor was [Prof. Lei Zhang](https://leizhangnjnu.github.io/_pages/includes/people/).
 
 
 ## Research Interests
