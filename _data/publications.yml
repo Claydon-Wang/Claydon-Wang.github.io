@@ -1,7 +1,7 @@
 main:
 
   - title: Open-Vocabulary Calibration for Fine-tuned CLIP
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
