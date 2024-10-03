@@ -9,8 +9,8 @@ I am currently a Ph.D. student at Southern University of Science and Technology,
 
 ## Research Interests
 
-- **Multi-modal Learning:** CLIP fine-tuning
-- **Machine Learning:** calibration, ML robustness, test-time adaptation
+- **Multi-modal Learning:** vision-language model, MLLM
+- **Reliable Machine Learning:** confidence calibration, test-time adaptation
 
 ## News
 
