@@ -4,6 +4,7 @@ main:
     authors: <strong>Shuoyuan Wang</strong>, Yixuan Li, Hongxin Wei
     conference_short: Arxiv
     conference: Preprint.
+    pdf: https://arxiv.org/abs/2410.02681
 
 
   - title: Open-Vocabulary Calibration for Fine-tuned CLIP
