@@ -19,8 +19,7 @@ main:
 
   - title: Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
     authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei
-
-    conference: Ubicomp/IMWUT, 2024.
+    conference: IMWUT/Ubicomp, 2024.
     pdf: https://arxiv.org/abs/2310.18562
     code: https://github.com/Claydon-Wang/OFTTA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
