@@ -5,7 +5,7 @@
 
 {% for link in site.data.publications.main %}
 
-<li style="margin-bottom: 10px;">
+<li style="margin-bottom: 5px;">
 <div class="pub-row" style="padding-bottom: 5px;">
   <div class="col-sm-12" style="position: relative; padding-right: 15px; padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
