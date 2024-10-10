@@ -10,7 +10,7 @@ main:
   - title: Open-Vocabulary Calibration for Fine-tuned CLIP
     authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, Guoqing Wang, Bob Zhang, Kaiyang Zhou, Hongxin Wei
     conference: ICML, 2024.
-    pdf: https://openreview.net/pdf?id=pY2UpspnBB
+    pdf: https://openreview.net/forum?id=pY2UpspnBB&noteId=pY2UpspnBB
     code: https://github.com/ml-stat-Sustech/CLIP_Calibration
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:noJOFFTtj3cJ:scholar.google.com/&output=citation&scisdr=ClHlFec0EOrhkyl5VJc:AFWwaeYAAAAAZp1_TJeq_pTuiDQCgtB58TZBulg&scisig=AFWwaeYAAAAAZp1_TCjCyHmD7wducRfxKA1YtXc&scisf=4&ct=citation&cd=0
     # image: ./assets/img/fs_ece.png
@@ -21,7 +21,7 @@ main:
     authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei
 
     conference: Ubicomp/IMWUT, 2024.
-    pdf: https://arxiv.org/pdf/2310.18562.pdf
+    pdf: https://arxiv.org/abs/2310.18562
     code: https://github.com/Claydon-Wang/OFTTA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -29,16 +29,3 @@ main:
     # image: ./assets/img/har.png
     # conference_short: Ubicomp/IMWUT
 
-
-
-
-  # - title: Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
-  #   authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei
-  #   conference_short: Ubicomp/IMWUT
-  #   conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2023.
-  #   pdf: https://arxiv.org/pdf/2310.18562.pdf
-  #   code: https://github.com/Claydon-Wang/OFTTA
-  #   page: https://github.com/Claydon-Wang/OFTTA
-  #   image: ./assets/img/har.png
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Y02Iufu_dFQJ:scholar.google.com/&output=citation&scisdr=ClHlFec0EOrhkyl9jQs:AFWwaeYAAAAAZp17lQtpljwoaixlkGkWN8_eoYQ&scisig=AFWwaeYAAAAAZp17lTrUvVzEQnYf9iNiCqHGgt8&scisf=4&ct=citation&cd=0
-  #   notes: Early Accept
