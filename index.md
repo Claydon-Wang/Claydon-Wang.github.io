@@ -9,11 +9,11 @@ I am currently a Ph.D. student at Southern University of Science and Technology,
 
 ## Research Interests
 
-- **Multi-modal Learning:** vision-language model, MLLM
+- **Multi-modal Learning:** vision-language model, human activity recognition
 - **Reliable Machine Learning:** confidence calibration, test-time adaptation
 
 ## News
-
+- **[Oct 2024]** I have been invited for a talk in FairComp.
 - **[May 2024]** 1 paper about CLIP calibration is accepted to ICML 2024.
 - **[Oct. 2023]** 1 paper about test-time adaptation is accept to IMWUT/UbiComp 2024.
 
