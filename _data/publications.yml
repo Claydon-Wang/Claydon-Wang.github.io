@@ -6,6 +6,11 @@ main:
     pdf: https://arxiv.org/abs/2410.02681
     # conference_short: Arxiv
 
+  - title: Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning
+    authors: Di_Xiong*, <strong>Shuoyuan Wang*</strong>, Lei Zhang, Wenbo Huang, Chaolei Han
+    conference: AAAI, 2025.
+    # pdf: https://arxiv.org/abs/2410.02681
+    # conference_short: Arxiv
 
   - title: Open-Vocabulary Calibration for Fine-tuned CLIP
     authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, Guoqing Wang, Bob Zhang, Kaiyang Zhou, Hongxin Wei
