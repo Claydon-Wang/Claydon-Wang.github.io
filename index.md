@@ -18,7 +18,7 @@ I am currently a Ph.D. student at Southern University of Science and Technology,
 - **[May 2024]** 1 paper about CLIP calibration is accepted to ICML 2024.
 - **[Oct. 2023]** 1 paper about test-time adaptation is accept to IMWUT/UbiComp 2024.
 
-{% include_relative _includes/workding_papers.md %}
+{% include_relative _includes/working_papers.md %}
 
 {% include_relative _includes/publications.md %}
 
