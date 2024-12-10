@@ -1,20 +1,14 @@
 main:
 
-  - title: Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models
-    authors: <strong>Shuoyuan Wang</strong>, Yixuan Li, Hongxin Wei
-    conference: Arxiv.
-    pdf: https://arxiv.org/abs/2410.02681
-    # conference_short: Arxiv
-
   - title: Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning
-    authors: Di_Xiong*, <strong>Shuoyuan Wang*</strong>, Lei Zhang, Wenbo Huang, Chaolei Han
-    conference: AAAI, 2025.
+    authors: Di Xiong*, <strong>Shuoyuan Wang*</strong>, Lei Zhang, Wenbo Huang, Chaolei Han
+    conference: AAAI 2025
     # pdf: https://arxiv.org/abs/2410.02681
     # conference_short: Arxiv
 
   - title: Open-Vocabulary Calibration for Fine-tuned CLIP
     authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, Guoqing Wang, Bob Zhang, Kaiyang Zhou, Hongxin Wei
-    conference: ICML, 2024.
+    conference: ICML 2024
     pdf: https://openreview.net/forum?id=pY2UpspnBB&noteId=pY2UpspnBB
     code: https://github.com/ml-stat-Sustech/CLIP_Calibration
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:noJOFFTtj3cJ:scholar.google.com/&output=citation&scisdr=ClHlFec0EOrhkyl5VJc:AFWwaeYAAAAAZp1_TJeq_pTuiDQCgtB58TZBulg&scisig=AFWwaeYAAAAAZp1_TCjCyHmD7wducRfxKA1YtXc&scisf=4&ct=citation&cd=0
@@ -24,7 +18,7 @@ main:
 
   - title: Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
     authors: <strong>Shuoyuan Wang</strong>, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei
-    conference: IMWUT/Ubicomp, 2024.
+    conference: IMWUT/Ubicomp 2024
     pdf: https://arxiv.org/abs/2310.18562
     code: https://github.com/Claydon-Wang/OFTTA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
