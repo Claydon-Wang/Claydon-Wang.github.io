@@ -3,7 +3,7 @@
 <div class="working_papers">
 <ol class="bibliography" style="padding-left: 0;">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.workding_papers.main %}
 
 <li style="margin-bottom: 1px;">
 <div class="pub-row" style="padding-bottom: 5px;">
