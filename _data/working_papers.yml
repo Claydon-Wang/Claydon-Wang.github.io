@@ -1,7 +1,7 @@
 main:
 
-  - title: Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models
-    authors: <strong>Shuoyuan Wang</strong>, Yixuan Li, Hongxin Wei
-    conference: Arxiv.
-    pdf: https://arxiv.org/abs/2410.02681
-    # conference_short: Arxiv
+  # - title: Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models
+  #   authors: <strong>Shuoyuan Wang</strong>, Yixuan Li, Hongxin Wei
+  #   conference: Arxiv.
+  #   pdf: https://arxiv.org/abs/2410.02681
+  #   # conference_short: Arxiv

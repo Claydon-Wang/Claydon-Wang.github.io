@@ -1,5 +1,11 @@
 main:
 
+  - title: Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models
+    authors: <strong>Shuoyuan Wang</strong>, Yixuan Li, Hongxin Wei
+    conference: ICML, 2025
+    pdf: https://arxiv.org/abs/2410.02681
+    # conference_short: Arxiv
+
   - title: Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning
     authors: Di Xiong*, <strong>Shuoyuan Wang*</strong>, Lei Zhang, Wenbo Huang, Chaolei Han
     conference: AAAI, 2025

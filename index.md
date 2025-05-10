@@ -13,6 +13,7 @@ I am currently a Ph.D. student at Southern University of Science and Technology,
 - **Reliable Machine Learning:** confidence calibration, test-time adaptation
 
 ## News
+- **[May 2025]** 1 papers about CLIP calibration is accepted by ICML 2025.
 - **[Dec 2024]** 2 papers are accepted by AAAI 2025.
 - **[Oct 2024]** I have been invited for a talk in [FairComp](https://faircomp-workshop.github.io/2024/index.html) and [Ubicomp](https://www.ubicomp.org/ubicomp-iswc-2024/).
 - **[May 2024]** 1 paper about CLIP calibration is accepted to ICML 2024.
